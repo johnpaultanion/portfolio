@@ -169,7 +169,7 @@
 
 				<div>
 					<div class="post">
-						<img class="thumbnail" src="images/p1.jpg">
+						<img class="thumbnail" src="images/p1.JPG">
 						<div class="post-preview">
 							<h6 class="post-title">Library system with Barcode</h6>
 							<p class="post-intro">I create this projects using c# , mysql for database </p>
@@ -182,7 +182,7 @@
 
 				<div>
 					<div class="post">
-						<img class="thumbnail" src="images/p2.jpg">
+						<img class="thumbnail" src="images/p2.JPG">
 						<div class="post-preview">
 							<h6 class="post-title">Treasury System With barcode  </h6>
 							<p class="post-intro">I create this projects using Visual Basic , mysql for database </p>
