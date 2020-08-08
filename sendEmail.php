@@ -15,7 +15,7 @@
         $mail = new PHPMailer();
         //STMP SETTINGS
 
-        //$mail->isSMTP();
+        $mail->isSMTP();
         $mail->Host = "smtp.gmail.com";
         $mail->SMTPAuth = true;
         $mail->Username ="johnpaultanion001@gmail.com";
