@@ -20,7 +20,7 @@
 		<div class="main-container">
 			
 			<div class="greeting-wrapper">
-				<h1>Hi, I'm Johnpaul Tanion</h1>
+				<h1>Hi, I'm Johnpaul V. Tanion</h1>
 			</div>
 
 
@@ -46,7 +46,7 @@
 				</div>
 
 				<div class="left-column">
-					<img id="profile_pic" src="images/model1.png">
+					<img id="profile_pic" src="images/model1.jpg">
 					<h5 style="text-align: center;line-height: 0;">Personalize Theme</h5>
 
 					<div id="theme-options-wrapper">
