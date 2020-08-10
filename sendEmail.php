@@ -28,12 +28,12 @@ $msg = $_POST['msg'];
      
 
     
-        require 'PHPMailer/PHPMailerAutoload.php';
-        require 'PHPMailer/Exception.php';
-        require 'PHPMailer/PHPMailer.php';
-        require 'PHPMailer/SMTP.php';
+        require_once 'PHPMailer/PHPMailerAutoload.php';
+        require_once 'PHPMailer/Exception.php';
+        require_once 'PHPMailer/PHPMailer.php';
+        require_once 'PHPMailer/SMTP.php';
         
-       $mail = new PHPMailer;
+       $mail = new PHPMailer();
         
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
