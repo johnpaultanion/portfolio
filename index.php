@@ -80,6 +80,8 @@ require 'sendEmail.php';
 						<li><a href="index.php#contact">Contact</a></li>
 
 						<li><a href="index.php#projects">Projects</a></li>
+                                                <li><a href="#">Login Admin</a></li>
+
 
 					</ul>
 				</div>
